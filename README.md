@@ -72,11 +72,6 @@ cd <repository folder>
 - **Expected Output:** "Login Failed" appears.
   ![Alt text](Screenshots/unsuccessful_output.png)
 
-
-### Test Case 3: Empty Credentials
-- **Input:** Leave username and password fields blank.
-- **Expected Output:** Error message prompts the user to enter credentials.
-
 ## Notes
 - Ensure the correct WebDriver is used for your browser version.
 - Modify the script as needed to test different credentials.
