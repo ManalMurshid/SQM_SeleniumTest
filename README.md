@@ -70,7 +70,10 @@ cd <repository folder>
   ![Incorrect username and password entered](Screenshots/unsuccessful_credentials.png)
 
 - **Expected Output:** "Login Failed" appears.
-  ![Alt text](Screenshots/unsuccessful_output.png)
+  ![If login unsuccessful](Screenshots/unsuccessful_output.png)
+
+### Logs.
+ ![Test Logs](Screenshots/unsuccessful_output.png)
 
 ## Notes
 - Ensure the correct WebDriver is used for your browser version.
