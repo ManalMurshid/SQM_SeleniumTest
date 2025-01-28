@@ -73,7 +73,7 @@ cd <repository folder>
   ![If login unsuccessful](Screenshots/unsuccessful_output.png)
 
 ### Logs.
- ![Test Logs](Screenshots/unsuccessful_output.png)
+ ![Test Logs](Screenshots/Screenshot 2025-01-28 124403.png)
 
 ## Notes
 - Ensure the correct WebDriver is used for your browser version.
