@@ -32,7 +32,7 @@ pip install selenium webdriver-manager
 ### 3. Download or Clone and Access the Project from GitHub
 -Clone the repository using the following command:
 ```bash
-git clone <repository_url>
+git clone <https://github.com/ManalMurshid/SQM_SeleniumTest.git>
 ```
 - Navigate to the project directory:
   ```bash
