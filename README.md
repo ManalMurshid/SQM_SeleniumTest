@@ -56,13 +56,22 @@ cd <repository folder>
 ## Test Case Scenarios
 ### Test Case 1: Valid Login
 - **Input:** Correct username and password.
+
+  ![Correct username and password entered](Screenshots/successful_credentials.png)
+
 - **Expected Output:** "Login Successful" appears.
+  ![If successfully logged in](Screenshots/Succesful_login_output.png)
+
 
   
 
 ### Test Case 2: Invalid Login
 - **Input:** Incorrect username or password.
+  ![Incorrect username and password entered](Screenshots/unsuccessful_credentials.png)
+
 - **Expected Output:** "Login Failed" appears.
+  ![Alt text](Screenshots/unsuccessful_output.png)
+
 
 ### Test Case 3: Empty Credentials
 - **Input:** Leave username and password fields blank.
